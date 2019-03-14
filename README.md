@@ -1,2 +1,0 @@
-# KT-Testing
-Handson
